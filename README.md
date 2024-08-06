@@ -3,7 +3,7 @@
 <div id="user-content-toc" align="center">
   <ul>
     <summary>
-    <h1 style="display: inline-block aling:center;">
+    <h1 style="display: inline-block text-aling:center;">
     <samp>&gt; Hey There! I'm Cascade </a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></samp>
     </h1>
     </summary>
