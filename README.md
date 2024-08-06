@@ -12,6 +12,7 @@
 
 <br>
 
+ <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" />
 
 <h2><samp>&gt; Tech stach:</samp></h2>
 
