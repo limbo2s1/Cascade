@@ -55,5 +55,6 @@
 <h2><samp>&gt; Stats:</samp></h2>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/velenyx/velenyx/output/github-contribution-grid-snake-dark.svg" alt="github contribution grid snake animation" />
+  <img src="https://raw.githubusercontent.com/limbo2s1/limbo2s1/output/github-contribution-grid-snake-da![Uploading github-user-contribution.svg…]()
+rk.svg" alt="github contribution grid snake animation" />
 </div>
