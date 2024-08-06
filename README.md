@@ -12,7 +12,6 @@
 
 <br>
 
-<a  href="https://github.com/SP-XD">
 
 <h2><samp>&gt; Tech stach:</samp></h2>
 
