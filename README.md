@@ -51,10 +51,3 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 <br/>
-
-<h2><samp>&gt; Stats:</samp></h2>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/limbo2s1/limbo2s1/output/github-contribution-grid-snake-da![Uploading github-user-contribution.svg…]()
-rk.svg" alt="github contribution grid snake animation" />
-</div>
