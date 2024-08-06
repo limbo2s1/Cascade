@@ -1,5 +1,3 @@
-<img src=".github/assets/banners/1-cat.png" />
-
 <div id="user-content-toc" align="center">
   <ul>
     <summary>
